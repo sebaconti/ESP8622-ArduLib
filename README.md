@@ -1,2 +1,2 @@
-# ESP8622-ArduLib
-This is a library to communicate from an Arduino to an ESP8622 
+# EspI2C
+This is a library help you to make projects with an Arduino, a ESP8266 and a I2C connection 
